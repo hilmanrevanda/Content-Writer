@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProjectMP</string>
+
+    <string name="LoginActivity">LOGIN</string>
+    <string name="MainActivity">NEWS</string>
+    <string name="RegisterActivity">REGISTER</string>
+</resources>
